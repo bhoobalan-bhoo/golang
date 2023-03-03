@@ -6,7 +6,7 @@ var (
 	var1 string = "bhoo_boy"
 	var2 float64 = 85.5
 	var3 string = "bhoo_boy"
-	// var4 int = 85.36 // commit a error if float cannot applied to int || But in C it can happily assign by 85 to variable var4 (Karthi Bytes Said)
+	// var4 int = 85.36 // commit a error if float cannot applied to int )
 	var4 int = 856
 	) 
 
