@@ -9,6 +9,14 @@ func main() {
 	var var2 float64 = 1.8963
 	var var3 int
 	var3 = 2222
+	// var2= "ilove"
+	if var9:=3 ; var9 > 9 {
+		fmt.Println("Yes")
+	} else{
+		fmt.Println("No")
+	}
+
+	fmt.Printf("%d", var3	)
 	var4 := "3333" // like python
 
 	fmt.Printf("%v <-> %T \n", var1, var1)
